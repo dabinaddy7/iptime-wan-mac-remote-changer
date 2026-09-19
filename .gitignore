@@ -1,1 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 
+# Virtual environments
+.venv/
+venv/
+env/
+aider-env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.env
+
+# Logs
+*.log
+
+# WireGuard
+*.conf
+*.qr
+
+# Local test files
+test_*
